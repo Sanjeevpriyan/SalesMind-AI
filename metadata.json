@@ -1,0 +1,6 @@
+{
+  "name": "SalesMind AI - Advanced Monthly Sales Analysis & Intelligence",
+  "description": "Advanced Monthly Sales Analysis platform featuring Global Business Intelligence, Customer Insights, P&L attribution, sentiment breakdown, forecasting models, and interactive What-If simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
